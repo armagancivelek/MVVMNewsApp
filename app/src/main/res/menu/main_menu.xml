@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/cancel_auth"
+        android:title="Cancel auth"
+        android:icon="@drawable/cancel"
+
+        />
+    <item
+        android:id="@+id/sign_out"
+        android:title="Sign out"
+        android:icon="@drawable/sign_out"
+        />
+
+
+
+</menu>

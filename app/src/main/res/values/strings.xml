@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_slogan">Access News With One Click !</string>
+    <string name="login_anonymously">Log in</string>
+
+</resources>
